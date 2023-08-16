@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using BOL_poco_;
+@{
+    Employee emp = ViewBag.Emp;
+}
+<form action="UpdateEmp" method="post">
+    
+    Enter ID:<br />
+    <input type="text" id="id" name="id" required value="@emp.Id" readonly />
+    <br /><br />
+    Enter Name:<br />
+    <input type="text" id="name" name="name" required value="@emp.Name" />
+    <br /><br />
+    Enter ID:<br />
+    <input type="text" id="salary" name="salary" required value="@emp.Salary" />
+    <br /><br />
+    <button type="submit" id="btn">Sign in</button>
+</form>

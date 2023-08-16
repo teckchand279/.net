@@ -1,0 +1,30 @@
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\bin\Debug\net7.0\BOL(poco).dll
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\bin\Debug\net7.0\BOL(poco).pdb
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\kunal\Desktop\Dotnet\MVC_EndModule\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\bin\Debug\net7.0\BOL(poco).dll
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\bin\Debug\net7.0\BOL(poco).pdb
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\Mohit Chaudhari\Downloads\MVC_EndModule\MVC_EndModule\DAL\obj\Debug\net7.0\ref\DAL.dll
